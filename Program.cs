@@ -16,6 +16,7 @@ if(operacion == "Dividr")
 if(operacion == "Sumar")
 {
     System.Console.WriteLine("Escribe el primer numero: ");
+    // un comentario
     int num1 = int.Parse(Console.ReadLine());
     System.Console.WriteLine("Escribe el segundo numero: ");
     int num2 = int.Parse(Console.ReadLine());
